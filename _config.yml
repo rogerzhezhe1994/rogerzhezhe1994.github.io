@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Runzhou (Roger) Zhang, Ph.D"
-  avatar           : "images/photo.png"
+  avatar           : "photo.png"
   bio              : "Researcher/Engineer in AI/ML Infrastructure, Cloud Computing and Networking"
   location         : "San Francisco Bay Area"
   employer         :
