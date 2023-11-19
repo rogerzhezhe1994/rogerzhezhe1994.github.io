@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roger/Personal Homepage"
+title                    : "Roger's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Roger Z."
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Runzhou (Roger) Zhang, Ph.D"
-  avatar           : "fadb0e3f687eca29cfb9b3032edec356.jpeg"
+  avatar           : "images/photo.png"
   bio              : "Researcher/Engineer in AI/ML Infrastructure, Cloud Computing and Networking"
   location         : "San Francisco Bay Area"
   employer         :
