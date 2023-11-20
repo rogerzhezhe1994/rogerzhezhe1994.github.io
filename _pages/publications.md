@@ -42,29 +42,51 @@ B. Lynn, R. Bock, M. Tur, and A. E. Willner\
 
 Selected Conference Proceedings and Talks (Peer-Reviewed)
 -------------------------------------------------------
-* [**Invited**] <u>R. Zhang</u> and A. E. Willner, “Turbulence-Robust Free-Space Optical Transmission Assisted by a Pilot Beam,” [***Advanced Photonics Congress***, paper NeM4B.3, Busan, Republic of Korea, 2023](https://opg.optica.org/abstract.cfm?uri=Networks-2023-NeM4B.3).
-* [**Invited**] <u>R. Zhang</u>, X. Su, H. Song, H. Zhou, M. Tur, and A. E. Willner, “Automatic Turbulence Resilience in Self-Coherent Free-Space Optical Communications,” [***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper M1J.4, San Diego, CA, USA, 2023](https://opg.optica.org/abstract.cfm?uri=OFC-2023-M1J.4).
-* <u>R. Zhang</u>, K. Zou, X. Su, Y. Duan, H. Zhou, H. Song, H. Song, A. Minoofar, N. Hu, K. Pang, R. W. Boyd, M. Tur, and A. E. Willner, “Turbulence-Resilient 2.25-Gbit/s DPSK Self-Coherent Free-Space Optical Communication Link Using Automatic Optoelectronic Mixing of Many Spatial Modes,” [***APS/IEEE/Optica Conference on Lasers and Electro-Optics (CLEO)***, paper STh2M. 4, San Jose, CA, USA,  2023](https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2022-STh2M.4).
-* <u>R. Zhang</u>, N. Hu, K. Zou, H. Zhou, X. Su, Z. Zhao, H. Song, H. Song, A. Almaiman, K. Pang, C. Liu, B. Lynn, M. Tur, and A. E. Willner, “Experimental Demonstration of Crosstalk Reduction to Achieve Turbulence-Resilient Multiple-OAM-Beam Free-Space Optical Communications Using Pilot Tones to Mix Beams at the Receiver,” [***APS/IEEE/Optica Conference on Lasers and Electro-Optics (CLEO)***, paper SW4L.4, San Jose, CA, USA, 2020](https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2020-SW4L.4).
-* <u>R. Zhang</u>, N. Hu, X. Su, A. Almaiman, H. Song, Z. Zhao, H. Song, K. Pang, C. Liu, M. Tur, and A. E. Willner, “Alignment Monitor for Free-Space Optical Links in the Presence of Turbulence Using the Beating of Opposite-Order Orbital-Angular Momentum Beams on Two Different Wavelengths,” [***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper Th1K.6, San Diego, CA, USA, 2020](https://ieeexplore.ieee.org/abstract/document/9083646).
-* <u>R. Zhang</u>, H. Song, H. Song, Z. Zhao, K. Pang, J. Du, K. Zou, C. Liu, H. Zhou, K. Manukyan, M. Tur, and A. E.
-Willner, “Experimental Demonstration of Utilizing Adaptive Optics to Mitigate Intra-Modal-Group Power Coupling of Few-Mode-Fiber in a Two-Channel 20-Gbit/s QPSK Mode-Division-Multiplexed System,” [***European Conference on Optical Communications (ECOC)***, paper W.3.C.2, Dublin, Ireland, 2019](https://ieeexplore.ieee.org/abstract/document/9125677).
-* <u>R. Zhang</u>, H. Song, Z. Zhao, H. Song, J. Du, G. Xie, L. Li, K. Pang, C. Liu, A. Almaiman, S. Zach, N. Cohen, M.
-Tur, and A. E. Willner, “Scattered Complex Laguerre-Gaussian Spectrum to Determine the 2-D Transverse Position of a Spherical Silica Particle,” [***APS/IEEE/Optica Conference on Lasers and Electro-Optics (CLEO)***, paper JTu2A.57, San Jose, CA, USA, 2019](https://opg.optica.org/abstract.cfm?uri=cleo_qels-2019-JTu2A.57).
-* <u>R. Zhang</u>, H. Song, Z. Zhao, H. Song, J. Du, C. Liu, K. Pang, L. Li, A. N. Willner, R. W. Boyd, M. Tur, and A. E.
-Willner, “Demonstration of Independent Turbulence Mitigation of Two 100-Gbit/s QPSK Orbital-Angular-Momentum Multiplexed Beams using Wavefront Shaping and Controlled Scattering,” [***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper W4A.4, San Diego, CA, USA, 2019](https://ieeexplore.ieee.org/abstract/document/8696801).
-* <u>R. Zhang</u>, L. Li, Z. Zhao, G. Xie, P. Liao, H. Song, C. Liu, H. Song, K. Pang, R. Bock, M. Tur, and A. E. Willner, “Experimental Effect of Scattering on an 80-Gbit/s QPSK Wireless Link using 4 Orbital-Angular-Momentum Beams,” [***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper Tu2I.5, San Diego, CA, USA, 2018](https://opg.optica.org/abstract.cfm?uri=OFC-2018-Tu2I.5).
+* [**Invited**] **Turbulence-Robust Free-Space Optical Transmission Assisted by a Pilot Beam**\
+<u>R. Zhang</u> and A. E. Willner\
+[***Advanced Photonics Congress***, paper NeM4B.3, Busan, Republic of Korea, 2023](https://opg.optica.org/abstract.cfm?uri=Networks-2023-NeM4B.3).
+* [**Invited**] **Automatic Turbulence Resilience in Self-Coherent Free-Space Optical Communications**\
+<u>R. Zhang</u>, X. Su, H. Song, H. Zhou, M. Tur, and A. E. Willner\
+[***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper M1J.4, San Diego, CA, USA, 2023](https://opg.optica.org/abstract.cfm?uri=OFC-2023-M1J.4).
+* **Turbulence-Resilient 2.25-Gbit/s DPSK Self-Coherent Free-Space Optical Communication Link Using Automatic Optoelectronic Mixing of Many Spatial Modes**\
+<u>R. Zhang</u>, K. Zou, X. Su, Y. Duan, H. Zhou, H. Song, H. Song, A. Minoofar, N. Hu, K. Pang, R. W. Boyd, M. Tur, and A. E. Willner\
+[***APS/IEEE/Optica Conference on Lasers and Electro-Optics (CLEO)***, paper STh2M. 4, San Jose, CA, USA,  2023](https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2022-STh2M.4).
+* **Experimental Demonstration of Crosstalk Reduction to Achieve Turbulence-Resilient Multiple-OAM-Beam Free-Space Optical Communications Using Pilot Tones to Mix Beams at the Receiver**\
+<u>R. Zhang</u>, N. Hu, K. Zou, H. Zhou, X. Su, Z. Zhao, H. Song, H. Song, A. Almaiman, K. Pang, C. Liu, B. Lynn, M. Tur, and A. E. Willner\
+[***APS/IEEE/Optica Conference on Lasers and Electro-Optics (CLEO)***, paper SW4L.4, San Jose, CA, USA, 2020](https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2020-SW4L.4).
+* **Alignment Monitor for Free-Space Optical Links in the Presence of Turbulence Using the Beating of Opposite-Order Orbital-Angular Momentum Beams on Two Different Wavelengths**\
+<u>R. Zhang</u>, N. Hu, X. Su, A. Almaiman, H. Song, Z. Zhao, H. Song, K. Pang, C. Liu, M. Tur, and A. E. Willner\
+[***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper Th1K.6, San Diego, CA, USA, 2020](https://ieeexplore.ieee.org/abstract/document/9083646).
+* **Experimental Demonstration of Utilizing Adaptive Optics to Mitigate Intra-Modal-Group Power Coupling of Few-Mode-Fiber in a Two-Channel 20-Gbit/s QPSK Mode-Division-Multiplexed System**\
+<u>R. Zhang</u>, H. Song, H. Song, Z. Zhao, K. Pang, J. Du, K. Zou, C. Liu, H. Zhou, K. Manukyan, M. Tur, and A. E.
+Willner\
+[***European Conference on Optical Communications (ECOC)***, paper W.3.C.2, Dublin, Ireland, 2019](https://ieeexplore.ieee.org/abstract/document/9125677).
+* **Scattered Complex Laguerre-Gaussian Spectrum to Determine the 2-D Transverse Position of a Spherical Silica Particle**\
+<u>R. Zhang</u>, H. Song, Z. Zhao, H. Song, J. Du, G. Xie, L. Li, K. Pang, C. Liu, A. Almaiman, S. Zach, N. Cohen, M.
+Tur, and A. E. Willner\
+[***APS/IEEE/Optica Conference on Lasers and Electro-Optics (CLEO)***, paper JTu2A.57, San Jose, CA, USA, 2019](https://opg.optica.org/abstract.cfm?uri=cleo_qels-2019-JTu2A.57).
+* **Demonstration of Independent Turbulence Mitigation of Two 100-Gbit/s QPSK Orbital-Angular-Momentum Multiplexed Beams using Wavefront Shaping and Controlled Scattering**\
+<u>R. Zhang</u>, H. Song, Z. Zhao, H. Song, J. Du, C. Liu, K. Pang, L. Li, A. N. Willner, R. W. Boyd, M. Tur, and A. E.
+Willner\
+[***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper W4A.4, San Diego, CA, USA, 2019](https://ieeexplore.ieee.org/abstract/document/8696801).
+* **Experimental Effect of Scattering on an 80-Gbit/s QPSK Wireless Link using 4 Orbital-Angular-Momentum Beams**\
+<u>R. Zhang</u>, L. Li, Z. Zhao, G. Xie, P. Liao, H. Song, C. Liu, H. Song, K. Pang, R. Bock, M. Tur, and A. E. Willner\
+[***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper Tu2I.5, San Diego, CA, USA, 2018](https://opg.optica.org/abstract.cfm?uri=OFC-2018-Tu2I.5).
 
 
 Book Chapters
 -------------------------------------------------------
-* A. E. Willner, <u>R. Zhang</u>, K. Pang, H. Song, C. Liu, H. Song, X. Su, H. Zhou, N. Hu, Z. Zhao, G. Xie, Y . Ren, H.
-Huang, and M. Tur, “High-capacity Free-space Optical Communications Using Multiplexing of Multiple OAM
-Beams” [***Electromagnetic Vortices: Wave Phenomena and Engineering Applications***, First Edition. Chapter 12,
+* **High-capacity Free-space Optical Communications Using Multiplexing of Multiple OAM
+Beams**\
+A. E. Willner, <u>R. Zhang</u>, K. Pang, H. Song, C. Liu, H. Song, X. Su, H. Zhou, N. Hu, Z. Zhao, G. Xie, Y . Ren, H.
+Huang, and M. Tur\
+[***Electromagnetic Vortices: Wave Phenomena and Engineering Applications***, First Edition. Chapter 12,
 Wiley, Dec. 2021, ISBN: 978-1-119-662-822](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119662945.ch12).
-* A. E. Willner, H. Song, C. Liu, <u>R. Zhang</u>, K. Pang, H. Zhou, N. Hu, H. Song, X. Su, Z. Zhao, M. Tur, H. Huang,
-G. Xie, and Y . Ren, “Causes and Mitigation of Modal Crosstalk in OAM-Multiplexed Optical Communication
-Links,” [***Structured Light and Optical Communication***, First Edition, Chapter 10, Elsevier Science, May 2021,
+* **Causes and Mitigation of Modal Crosstalk in OAM-Multiplexed Optical Communication
+Links**\
+A. E. Willner, H. Song, C. Liu, <u>R. Zhang</u>, K. Pang, H. Zhou, N. Hu, H. Song, X. Su, Z. Zhao, M. Tur, H. Huang,
+G. Xie, and Y . Ren\
+[***Structured Light and Optical Communication***, First Edition, Chapter 10, Elsevier Science, May 2021,
 ISBN: 978-0-128-21510-4](https://www.sciencedirect.com/science/article/abs/pii/B9780128215104000169).
 
 You can also find all my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Ih1uYjsAAAAJ&hl=en).
