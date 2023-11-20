@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Optical Network Engineer in Amazon Web Services (AWS), working on [metrics design, monitoring, and optimization of AWS super-large-scale cloud computing and networking infrastructure](https://aws.amazon.com/blogs/networking-and-content-delivery/a-continuous-improvement-model-for-interconnects-within-aws-data-centers/). Previously, I obtained Ph.D in Electrical Engineering from University of Southern California (USC) in 2022, with a research interest in digital signal processing, signal and system, communications, and machine learning. Before joining USC, I completed my B.Eng in Information Engineering from Zhejiang University in 2016, where I was selected to Advanced Honor Class of Engineering Education Program (ACEE) in ChuKochen Honors College (top 2% selected among all engineering students).
+I am an Optical Network Engineer in Amazon Web Services (AWS), working on [optimization of AWS hyper-scale cloud infrastructure](https://aws.amazon.com/blogs/networking-and-content-delivery/a-continuous-improvement-model-for-interconnects-within-aws-data-centers/). Previously, I obtained Ph.D in Electrical Engineering from University of Southern California (USC) in 2022, advised by [Prof. Alan E. Willner](https://ee.usc.edu/~willner/). Before joining USC, I completed my B.Eng in Information Engineering from Zhejiang University in 2016, where I was selected to Advanced Honor Class of Engineering Education (ACEE) Program in ChuKochen Honors College (top 2% selected among all engineering students).
+
+I have solid technical background in digital signal processing, signal and system, communications, and machine learning. Moreover, I have broad interest in AI/ML infrastructure, cloud computing and networking.
 
 
 Experience
