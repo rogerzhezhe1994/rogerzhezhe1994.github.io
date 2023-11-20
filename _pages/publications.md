@@ -78,14 +78,14 @@ Book Chapters
 -------------------------------------------------------
 * **High-capacity Free-space Optical Communications Using Multiplexing of Multiple OAM
 Beams**\
-A. E. Willner, <u>R. Zhang</u>, K. Pang, H. Song, C. Liu, H. Song, X. Su, H. Zhou, N. Hu, Z. Zhao, G. Xie, Y . Ren, H.
+A. E. Willner, <u>R. Zhang</u>, K. Pang, H. Song, C. Liu, H. Song, X. Su, H. Zhou, N. Hu, Z. Zhao, G. Xie, Y. Ren, H.
 Huang, and M. Tur\
 [***Electromagnetic Vortices: Wave Phenomena and Engineering Applications***, First Edition. Chapter 12,
 Wiley, Dec. 2021, ISBN: 978-1-119-662-822](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119662945.ch12).
 * **Causes and Mitigation of Modal Crosstalk in OAM-Multiplexed Optical Communication
 Links**\
 A. E. Willner, H. Song, C. Liu, <u>R. Zhang</u>, K. Pang, H. Zhou, N. Hu, H. Song, X. Su, Z. Zhao, M. Tur, H. Huang,
-G. Xie, and Y . Ren\
+G. Xie, and Y. Ren\
 [***Structured Light and Optical Communication***, First Edition, Chapter 10, Elsevier Science, May 2021,
 ISBN: 978-0-128-21510-4](https://www.sciencedirect.com/science/article/abs/pii/B9780128215104000169).
 
