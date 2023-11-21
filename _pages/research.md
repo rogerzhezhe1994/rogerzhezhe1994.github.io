@@ -9,7 +9,7 @@ Turbulence-Resilient Free-Space-Optical Communications
 ------------
 Compared with radio, free-space optical (FSO) communications have the potential advantages of higher data capacity and lower probability of interception. However, FSO systems are highly vulnerable to atmospheric turbulence effects, especially for complex modulation formats involving both amplitude and phase encoding, such as quadrature amplitude modulation (QAM). We demonstrated pilot-assisted self-coherent approach to enable turbulence-resilient FSO communications with automatic turbulence degradation compensation.
 
-[](https://github.com/rogerzhezhe1994/rogerzhezhe1994.github.io/blob/master/images/turbulence_resilience.png)
+![](https://github.com/rogerzhezhe1994/rogerzhezhe1994.github.io/blob/master/images/turbulence_resilience.png)
 
 Related Publications:
 
