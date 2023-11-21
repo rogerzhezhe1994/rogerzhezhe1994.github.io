@@ -41,6 +41,7 @@ Minoofar, B. Lynn, D. Park, M. Tur, and A. E. Willner, "Demonstration of Turbule
 High-Capacity Free-Space-Optical Communications for UAVs
 -------------
 
+![](https://raw.githubusercontent.com/rogerzhezhe1994/rogerzhezhe1994.github.io/master/images/41598_2017_17580_Fig1_HTML.webp)
 
 Related Publications:
 
