@@ -46,4 +46,6 @@ Related Publications:
 
 * L. Li\*, R. Zhang\*, Z. Zhao, G. Xie, P. Liao, K. Pang, H. Song, C. Liu, Y. Ren, G. Labroille, P. Jian, D. Starodubov,
 B. Lynn, R. Bock, M. Tur, and A. E. Willner, "High-Capacity Free-Space Optical Communications Between a Ground Transmitter and a Ground Receiver via a UAV Using Multiplexing of Multiple Orbital-Angular-Momentum Beams," [***Scientific Reports***, vol: 7, no. 1, pp: 17427, 2017](https://www.nature.com/articles/s41598-017-17580-y). *Contributed equally.*
+* L. Li, R. Zhang, P. Liao, Y. Cao, H. Song, Y. Zhao, J. Du, Z. Zhao, C. Liu, K. Pang, H. Song, A. Almaiman, D.
+Starodubov, B. Lynn, R. Bock, M. Tur, A. F. Molisch, and A. E. Willner, "Mitigation for Turbulence Effects in a 40-Gbit/s Orbital-Angular-Momentum-Multiplexed Free-Space Optical Link Between a Ground Station and a Retro-Reflecting UAV Using MIMO Equalization," [***Optics Letters***, vol: 44, pp: 5181-5184, 2019](https://opg.optica.org/ol/abstract.cfm?uri=ol-44-21-5181).
 
