@@ -31,6 +31,11 @@ Zhou, R. W. Boyd, B. Lynn, R. Bock, M. Tur, and A. E. Willner\
 <u>R. Zhang</u>, L. Li, Z. Zhao, G. Xie, G. Milione, H. Song, P. Liao, C. Liu, H. Song, K. Pang, A. N. Willner, B. Lynn,
 R. Bock, M. Tur, and A. E. Willner\
 [***Optics Letters***, vol: 44, pp: 691-694, 2019](https://opg.optica.org/abstract.cfm?uri=ol-44-3-691).
+* **Mitigation for Turbulence Effects in a 40-Gbit/s Orbital-Angular-Momentum-Multiplexed Free-Space Optical Link Between a Ground Station and a Retro-Reflecting UAV Using MIMO Equalization**\
+L. Li, <u>R. Zhang</u>, P. Liao, Y. Cao, H. Song, Y. Zhao, J. Du, Z. Zhao, C. Liu, K. Pang, H. Song, A. Almaiman, D.
+Starodubov, B. Lynn, R. Bock, M. Tur, A. F. Molisch, and A. E. Willner\
+[***Optics Letters***, vol: 44, pp: 5181-5184, 2019](https://opg.optica.org/ol/abstract.cfm?uri=ol-44-21-5181).\
+[**Editors’ Pick**] 6 out of 73 papers in that issue of Optics Letters.
 * **Athermal Narrow Band Filters based on Side-Modulated Bragg Gratings**\
 J. Chen, <u>R. Zhang</u>, and Y. Shi\
 [***IEEE Photonics Technology Letters***, vol: 30, no: 13, 2018](https://ieeexplore.ieee.org/document/8367815).
