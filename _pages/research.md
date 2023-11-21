@@ -25,6 +25,7 @@ Mode-Divison-Multiplexed Optical Communications in Random Media
 
 Spectral efficiency and data capacity of optical communications (free-space system or fiber-system) can be enhanced N-fold by mode-division-multiplexing (MDM), in that each mode can carry an independent data stream and differnet spatal modes are orthogonal. Such orthogonal modal sets can be chosen in different modal basis, such as Laguerre-Gaussian, Hermite-Gaussian, and Linearly-polarized spatial modes. Communication media can be in the form of random nature, of which refractive index can interact with and distort the wavefront of spatial modes. We explored light-medium interaction and demonstrated enhanced optical MDM transmission in different random media (atmospheric turbulence, turbudity, and multi-mode fiber).
 
+![](https://raw.githubusercontent.com/rogerzhezhe1994/rogerzhezhe1994.github.io/master/images/random_media.jpg)
 
 Related Publications:
 
