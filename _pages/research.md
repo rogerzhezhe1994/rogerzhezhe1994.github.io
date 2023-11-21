@@ -24,6 +24,8 @@ Mode-Divison-Multiplexed Communications in Random Media
 --------------
 
 
+
+
 Related Publications:
 
 * R. Zhang, H. Song, H. Song, Z. Zhao, G. Milione, K. Pang, J. Du, L. Li, K. Zou, H. Zhou, C. Liu, K. Manukyan,
@@ -40,6 +42,8 @@ Minoofar, B. Lynn, D. Park, M. Tur, and A. E. Willner, "Demonstration of Turbule
 
 High-Capacity Free-Space-Optical Communications for UAVs
 -------------
+
+Unmanned-aerial-vehicles (UAVs), such as flying drones, have been proliferating for numerous applications, of which data capacity needs have also been increasing dramatically. Free-Space-Optical (FSO) communications aided with mode-division-multiplexing (MDM) can potentially enhance the spectral efficiency and data capacity. In this project, we demonstrated high-capacity FSO communications employing MDM with a flying UAV in the field with a round-trip distance of up to 100 m.
 
 ![](https://raw.githubusercontent.com/rogerzhezhe1994/rogerzhezhe1994.github.io/master/images/41598_2017_17580_Fig1_HTML.webp)
 
