@@ -20,7 +20,7 @@ Manukyan, A. Almaiman, B. Lynn, R. W. Boyd, M. Tur, and A. E. Willner, "Turbulen
 
 
 
-Mode-Divison-Multiplexing in Randoam Media
+Mode-Divison-Multiplexed Communications in Random Media
 --------------
 
 
@@ -46,3 +46,4 @@ Related Publications:
 
 * L. Li\*, R. Zhang\*, Z. Zhao, G. Xie, P. Liao, K. Pang, H. Song, C. Liu, Y. Ren, G. Labroille, P. Jian, D. Starodubov,
 B. Lynn, R. Bock, M. Tur, and A. E. Willner, "High-Capacity Free-Space Optical Communications Between a Ground Transmitter and a Ground Receiver via a UAV Using Multiplexing of Multiple Orbital-Angular-Momentum Beams," [***Scientific Reports***, vol: 7, no. 1, pp: 17427, 2017](https://www.nature.com/articles/s41598-017-17580-y). *Contributed equally.*
+
