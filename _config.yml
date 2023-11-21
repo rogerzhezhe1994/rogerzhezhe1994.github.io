@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roger's Personal Homepage"
+title                    : "Roger's Homepage"
 title_separator          : "-"
 name                     : &name "Roger Z."
 description              : &description "personal description"
