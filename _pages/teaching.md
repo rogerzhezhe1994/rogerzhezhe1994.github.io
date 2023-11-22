@@ -10,4 +10,4 @@ author_profile: true
 * EE 567: Communication Systems (Graduate-level)
 * EE 512: Stochastic Processes (Graduate-level)
 * EE 510: Linear Algebra (Graduate-level)
-* EE 105 Introduction to Electrical Engineering (Undergraduate-level)
+* EE 105: Introduction to Electrical Engineering (Undergraduate-level)
