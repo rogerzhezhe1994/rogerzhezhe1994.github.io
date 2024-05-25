@@ -15,6 +15,7 @@ Related Publications:
 
 * R. Zhang, N. Hu, H. Zhou, K. Zou, X. Su, Y . Zhou, H. Song, K. Pang, H. Song, A. Minoofar, Z. Zhao, C. Liu, K.
 Manukyan, A. Almaiman, B. Lynn, R. W. Boyd, M. Tur, and A. E. Willner, "Turbulence-Resilient Pilot-Assisted Self-Coherent Free-Space Optical Communications Using Automatic Optoelectronic Mixing of Many Modes," [***Nature Photonics***, vol: 15, no. 10, pp: 743-750, 2021](https://www.nature.com/articles/s41566-021-00877-w).
+* [**Invited**] R. Zhang, X. Zhou, H. Song, H. Zhou, M. Tur, and A. E. Willner, “Automatic Turbulence Resilience in Pilot-Assisted Self-Coherent Free-Space Optical Communications,” [***IEEE/Optica Journal of Lightwave Technology***, vol: 42, no. 3, pp: 3760 - 3769, 2024](https://ieeexplore.ieee.org/abstract/document/10475424).
 * [**Invited**] R. Zhang, X. Su, H. Song, H. Zhou, M. Tur, and A. E. Willner, "Automatic Turbulence Resilience in Self-Coherent Free-Space Optical Communications," [***IEEE/Optica Conference on Optical Fiber Communications (OFC)***, paper M1J.4, San Diego, CA, USA, 2023](https://opg.optica.org/abstract.cfm?uri=OFC-2023-M1J.4).
 * [**Invited**] R. Zhang and A. E. Willner, "Turbulence-Robust Free-Space Optical Transmission Assisted by a Pilot Beam," [***Advanced Photonics Congress***, paper NeM4B.3, Busan, Republic of Korea, 2023](https://opg.optica.org/abstract.cfm?uri=Networks-2023-NeM4B.3).
 
