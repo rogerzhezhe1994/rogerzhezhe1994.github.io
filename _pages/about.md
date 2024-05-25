@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Optical Network Engineer in Amazon Web Services (AWS), working on [optimization of AWS hyper-scale cloud infrastructure](https://aws.amazon.com/blogs/networking-and-content-delivery/a-continuous-improvement-model-for-interconnects-within-aws-data-centers/). Previously, I obtained Ph.D in Electrical Engineering from University of Southern California (USC) in 2022, advised by [Prof. Alan E. Willner](https://ee.usc.edu/~willner/). Before joining USC, I completed my B.Eng in Information Engineering from Zhejiang University in 2016.
-
-I have solid technical background in digital signal processing, signal and system, communications, and machine learning. Moreover, I have broad interest in AI/ML infrastructure, cloud computing and networking.
+I have been working as researcher/engineer in the field of hyper-scale cloud computing and networking infrastructures, with a focus to design and optimize data center networking performance. Prior, I obtained Ph.D in Electrical Engineering from University of Southern California in 2022, advised by [Prof. Alan E. Willner](https://ee.usc.edu/~willner/). Before joining USC, I completed my B.Eng in Information Engineering from Zhejiang University in 2016. I have solid technical background in digital signal processing, signal and system, communications, and machine learning. Moreover, I have broad interest in AI/ML infrastructure, cloud computing, and computer networking.
 
 
 Experience
 =============================
-* Apr. 2022 - Present, Optical Network Engineer, AWS Data Infrastructure and Networking
+* May. 2024 - Present, Transport Network Planner, Network Infrastructure, Meta Platforms
+* Apr. 2022 - May. 2024, Optical Network Engineer, AWS Data Infrastructure and Networking
 * Aug. 2016 – May. 2022, Research Assistant, [Institute of Communications, Information, Learning, and Quantum](https://minghsiehece.usc.edu/groups-and-institutes/cilq/), Department of Electrical and Computer Engineering, University of Southern California
 * Oct. 2015 – Jun. 2016, Research Intern, Center for Optical and Electromagnetic Research, Zhejiang University
 * Jul. 2015 – Sep. 2015, Research Intern, [Integrated Nanodevices and Nanosystems Research](https://faculty.engineering.ucdavis.edu/islam/research/), Department of Electrical and Computer Engineering, University of California, Davis
@@ -31,4 +30,3 @@ Awards
 * 2015 ZJU Scholarship for Achievement in Research and Innovation: top 5% of ~5,000 undergraduate students in ZJU
 * 2015 Meritorious Winner of the U.S. National Mathematical Contest in Modeling: top 10% of ~2,500 teams
 * 2014 First Prize in China National Mathematical Contest in Modeling: top 1% of >20,000 teams
-
