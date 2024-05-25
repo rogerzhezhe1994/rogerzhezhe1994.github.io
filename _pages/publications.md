@@ -7,6 +7,9 @@ author_profile: true
 
 Selected Journal Articles (Peer-Reviewed)
 ----------------------------------------------
+* [**Invited**] **Automatic Turbulence Resilience in Pilot-Assisted Self-Coherent Free-Space Optical Communications**\
+<u>R. Zhang</u>, X. Su, H. Song, H. Zhou, M. Tur, and A. E. Willner\
+[***Journal of Lightwave Technology***, vol: 42, no. 3, pp: 3760 - 3769, 2024](https://ieeexplore.ieee.org/abstract/document/10475424).
 * **Turbulence-Resilient Differential-Phase-Shift-Keying Free-Space Optical Communications Using Automatic Multi-Mode Optoelectronic Mixing**\
 <u>R. Zhang</u>, K. Zou, X. Su, Y. Duan, H. Zhou, H. Song, H. Song, A. Minoofar, N. Hu, K. Pang, R. W. Boyd, M. Tur, and A. E. Willner\
 [***Optics Communications***, vol: 534, 129330, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0030401823000767).
