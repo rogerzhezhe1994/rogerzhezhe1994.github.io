@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Here is a selected list of research publications where I played a leading role.
-You can also find all my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Ih1uYjsAAAAJ&hl=en).
+You can also find the full list of my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=Ih1uYjsAAAAJ&hl=en).
 
 
 Selected Journal Articles (Peer-Reviewed)
