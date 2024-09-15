@@ -16,17 +16,12 @@ Experience
 * May. 2024 - Present, Transport Network Planner, Network Infrastructure, Meta Platforms
 * Apr. 2022 - May. 2024, Optical Network Engineer, AWS Data Infrastructure and Networking
 * Aug. 2016 – May. 2022, Research Assistant, [Institute of Communications, Information, Learning, and Quantum](https://minghsiehece.usc.edu/groups-and-institutes/cilq/), Department of Electrical and Computer Engineering, University of Southern California
-* Oct. 2015 – Jun. 2016, Research Intern, Center for Optical and Electromagnetic Research, Zhejiang University
-* Jul. 2015 – Sep. 2015, Research Intern, [Integrated Nanodevices and Nanosystems Research](https://faculty.engineering.ucdavis.edu/islam/research/), Department of Electrical and Computer Engineering, University of California, Davis
 
 
-Awards
+Awards & Media Coverage
 ============================
 * [2021 PSC Tingyi Li Memorial Scholarship](https://psc-sc.org/tingye-li-memorial-scholarship-announcement-and-winners/): 2 recipients annually in the field of optics and photonics
 * [2020 Qualcom Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship): 13 teams selected in North America region
 * [2020 SPIE Optics and Photonics Education Scholarship](https://spie.org/Documents/Courses/Education_Outreach/Scholarships/2020/Runzhou-Zhang-PR20.pdf): 78 students recipients worldwide in the filed of optics and photonics
 * 2019 USC Graduate School Travel/Research Award
 * [2016 USC Annenberg Ph.D Fellowship](https://graduateschool.usc.edu/fellowships/fellowships-for-phd-students/): top-off fellowship for Ph.D students
-* 2015 ZJU Scholarship for Achievement in Research and Innovation: top 5% of ~5,000 undergraduate students in ZJU
-* 2015 Meritorious Winner of the U.S. National Mathematical Contest in Modeling: top 10% of ~2,500 teams
-* 2014 First Prize in China National Mathematical Contest in Modeling: top 1% of >20,000 teams
