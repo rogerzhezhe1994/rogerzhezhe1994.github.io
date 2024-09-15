@@ -4,6 +4,9 @@ title: "Publications and Talks"
 permalink: /publications/
 author_profile: true
 ---
+Here is a selected list of research publications where I played a leading role.
+You can also find all my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Ih1uYjsAAAAJ&hl=en).
+
 
 Selected Journal Articles (Peer-Reviewed)
 ----------------------------------------------
@@ -96,6 +99,3 @@ A. E. Willner, H. Song, C. Liu, <u>R. Zhang</u>, K. Pang, H. Zhou, N. Hu, H. Son
 G. Xie, and Y. Ren\
 [***Structured Light and Optical Communication***, First Edition, Chapter 10, Elsevier Science, May 2021,
 ISBN: 978-0-128-21510-4](https://www.sciencedirect.com/science/article/abs/pii/B9780128215104000169).
-
-You can also find all my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Ih1uYjsAAAAJ&hl=en).
--------------------------------------------------------------------
