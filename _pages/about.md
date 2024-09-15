@@ -18,8 +18,10 @@ Experience
 * Aug. 2016 – May. 2022, Research Assistant, [Institute of Communications, Information, Learning, and Quantum](https://minghsiehece.usc.edu/groups-and-institutes/cilq/), Department of Electrical and Computer Engineering, University of Southern California
 
 
-Awards & Media Coverage
+Update & Awards & Media Coverage
 ============================
+* [A Continuous Improvement Model for Interconnects within AWS Data Centers] (https://aws.amazon.com/blogs/networking-and-content-delivery/a-continuous-improvement-model-for-interconnects-within-aws-data-centers/): group post about interconnect project conducted in AWS, for more context, also see [Growing AWS internet peering with 400 GbE] (https://aws.amazon.com/blogs/networking-and-content-delivery/growing-aws-internet-peering-with-400-gbe/).
+* [Two Beams Are Better Than One] (https://viterbischool.usc.edu/news/2021/10/two-beams-are-better-than-one/): media coverage for my Ph.D research in free-space optical communications.
 * [2021 PSC Tingyi Li Memorial Scholarship](https://psc-sc.org/tingye-li-memorial-scholarship-announcement-and-winners/): 2 recipients annually in the field of optics and photonics
 * [2020 Qualcom Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship): 13 teams selected in North America region
 * [2020 SPIE Optics and Photonics Education Scholarship](https://spie.org/Documents/Courses/Education_Outreach/Scholarships/2020/Runzhou-Zhang-PR20.pdf): 78 students recipients worldwide in the filed of optics and photonics
