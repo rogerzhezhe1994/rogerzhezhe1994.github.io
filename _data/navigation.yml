@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "Research"
-    url: /research/
-  
-  - title: "Publications/Talks"
+  - title: "Publications & Talks"
     url: /publications/  
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Research"
+    url: /research/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
         
   # - title: "Blog Posts"
   #   url: /year-archive/
