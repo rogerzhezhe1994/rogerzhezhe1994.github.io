@@ -14,7 +14,7 @@ I have been working as researcher/engineer in the field of hyper-scale cloud net
 Experience
 =============================
 * May. 2024 - Present, Transport Network Planner, Network Infrastructure, Meta Platforms
-* Apr. 2022 - May. 2024, Optical Network Engineer, AWS Data Infrastructure and Networking
+* Apr. 2022 - May. 2024, Optical Network Engineer, Amazon Web Services (AWS)
 * Aug. 2016 – May. 2022, Research Assistant, [Institute of Communications, Information, Learning, and Quantum](https://minghsiehece.usc.edu/groups-and-institutes/cilq/), Department of Electrical and Computer Engineering, University of Southern California
 
 
