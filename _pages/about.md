@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been working as researcher/engineer in the field of hyper-scale cloud networking infrastructures, with a focus to design and optimize data-center networking performance. Prior, I obtained Ph.D in Electrical Engineering from University of Southern California in 2022, advised by [Prof. Alan E. Willner](https://ee.usc.edu/~willner/). Before joining USC, I completed my B.Eng in Information Engineering from Zhejiang University in 2016. I have solid technical background in digital signal processing, photonics, signal & system, and communications & networking. Moreover, I have broad interest in AI infrastructure, cloud computing, and computer networking.
-
-
-Experience
-=============================
-* May. 2024 - Present, Transport Network Planner, Network Infrastructure, Meta Platforms
-* Apr. 2022 - May. 2024, Optical Network Engineer, Amazon Web Services (AWS)
-* Aug. 2016 – May. 2022, Research Assistant, [Institute of Communications, Information, Learning, and Quantum](https://minghsiehece.usc.edu/groups-and-institutes/cilq/), Department of Electrical and Computer Engineering, University of Southern California
-
+I have been working as researcher/engineer in hyper-scale cloud networking infrastructures (Meta and AWS), with a focus to design and optimize data-center and backbone networking performance. Prior, I obtained Ph.D in Electrical Engineering from University of Southern California in 2022, advised by [Prof. Alan E. Willner](https://ee.usc.edu/~willner/). Before joining USC, I completed my B.Eng in Information Engineering from Zhejiang University in 2016. I have solid technical background in digital signal processing, photonics, signal & system, and communications & networking. Moreover, I have broad interest in cloud computing, computer networking, and AI infrastructure.
 
 Updates
 ============================
